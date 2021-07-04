@@ -10,3 +10,4 @@ D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSample
 D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\ref\YuanjieSampleAdd.dll
 D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.pdb
 D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.sourcelink.json
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.csprojAssemblyReference.cache
