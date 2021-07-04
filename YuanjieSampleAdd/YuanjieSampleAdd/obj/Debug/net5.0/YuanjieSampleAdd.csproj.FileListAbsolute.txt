@@ -1,0 +1,12 @@
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\bin\Debug\net5.0\YuanjieSampleAdd.deps.json
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\bin\Debug\net5.0\YuanjieSampleAdd.dll
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\bin\Debug\net5.0\ref\YuanjieSampleAdd.dll
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\bin\Debug\net5.0\YuanjieSampleAdd.pdb
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.AssemblyInfoInputs.cache
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.AssemblyInfo.cs
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.csproj.CoreCompileInputs.cache
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.dll
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\ref\YuanjieSampleAdd.dll
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.pdb
+D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\obj\Debug\net5.0\YuanjieSampleAdd.sourcelink.json

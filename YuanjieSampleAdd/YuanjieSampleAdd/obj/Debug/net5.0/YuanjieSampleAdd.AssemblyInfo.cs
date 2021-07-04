@@ -11,13 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("YuanjieSampleAdd")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeLeli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("YuanjieSampleAdd")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("5.5.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.5.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Jisuan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YuanjieSampleAdd")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("5.5.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

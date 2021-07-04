@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>YuanjieSampleAdd</id>
+    <version>5.5.0</version>
+    <authors>Yuanjie</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/Kevin920920/testNuget.git" commit="5a6a22067972566ff926aad702b2065a119b2d33" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\test\gittest\YuanjieSampleAdd\YuanjieSampleAdd\bin\Debug\net5.0\YuanjieSampleAdd.pdb" target="lib\net5.0\YuanjieSampleAdd.pdb" />
+  </files>
+</package>

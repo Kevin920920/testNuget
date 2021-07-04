@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Pq0YfCr83oOnPthEMQ1mmdCpiHYj/rYQ8I2A883QoVPPFW6rbcbBTmHMtfjVBnTC7R5hkTOPpIr6m9hVIP3cog==",
+  "dgSpecHash": "vu3uG6XZdqCLuqyvLdp1OFWgjNsPu4ds1SUbmVh74xWc8R5j3PdBTuhjTO+rnDZTa8hf6eZ2vVKwRHG6O1kK2w==",
   "success": true,
   "projectFilePath": "D:\\test\\gittest\\YuanjieSampleAdd\\YuanjieSampleAdd\\YuanjieSampleAdd.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yuanjie\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\yuanjie\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\yuanjie\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
