@@ -6,7 +6,7 @@
     <authors>Yuanjie</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/Kevin920920/testNuget.git" commit="5a6a22067972566ff926aad702b2065a119b2d33" />
+    <repository type="git" url="https://github.com/Kevin920920/testNuget.git" commit="6b3062bc1bb3fecb672f60218d3e575194384e4d" />
     <dependencies>
       <group targetFramework="net5.0" />
     </dependencies>

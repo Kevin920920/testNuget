@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeLeli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("5.5.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.5.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.5.0+6b3062bc1bb3fecb672f60218d3e575194384e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jisuan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YuanjieSampleAdd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("5.5.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Kevin920920/testNuget.git")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
