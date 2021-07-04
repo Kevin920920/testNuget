@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace YuanjieSampleAdd
 {
     /// <summary>
-    /// my jisuan v5.6.0  123
+    /// my jisuan v5.7.0  123
     /// </summary>
     public class Jisuan
     {
